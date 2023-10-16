@@ -207,7 +207,7 @@ class Program {
             }
             else
             {
-                return "We coudln't dox him :(";
+                return "We coudln't get the info :(";
             }
         }
     }
